@@ -1,0 +1,14 @@
+C:\Users\Toshiba\source\repos\Auth_\Auth_\bin\x86\Debug\Guna.UI2.dll
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth_.UI.resources
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth_.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth_.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth_.csproj.CopyComplete
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth_.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth_.Test.resources
+C:\Users\Toshiba\source\repos\Auth_\Auth_\bin\x86\Debug\Auth.exe.config
+C:\Users\Toshiba\source\repos\Auth_\Auth_\bin\x86\Debug\Auth.exe
+C:\Users\Toshiba\source\repos\Auth_\Auth_\bin\x86\Debug\Auth.pdb
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth.exe
+C:\Users\Toshiba\source\repos\Auth_\Auth_\obj\x86\Debug\Auth.pdb
